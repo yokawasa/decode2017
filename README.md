@@ -1,2 +1,3 @@
 # decode2017
-Azure Search session material used in de:code 2017
+All codes and sample data used in Azure Search session (DI08) will be posted soon. Thank you!
+
