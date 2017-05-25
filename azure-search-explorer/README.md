@@ -1,4 +1,4 @@
-# Azure Search QnA Bot
+# Azure Search Query Explorer
 
 Azure Search Query Explorer. This explorer was used during de:code 2017 DI08 session (Azure Search).
 
