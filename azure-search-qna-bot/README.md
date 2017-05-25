@@ -30,6 +30,7 @@ Add your Bot and azure search service info in Web.config (azure-search-qna-bot\Q
 
 ## Azure Search
 ### Index Schema (index: qnakb)
+```
 {
     "name": "qnakb",
     "fields": [
