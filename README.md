@@ -5,12 +5,11 @@ All codes and sample data used in Azure Search session (DI08) will be posted soo
 
 * [azure-search-qna-bot](https://github.com/yokawasa/decode2017/tree/master/azure-search-qna-bot)
 
-[](https://github.com/yokawasa/decode2017/blob/master/azure-search-qna-bot/images/capture-slack.PNG)
-
-
 ## Azure Search Query Explorer
 
 * [azure-search-explorer](https://github.com/yokawasa/decode2017/tree/master/azure-search-explorer)
-[](https://github.com/yokawasa/decode2017/blob/master/azure-search-explorer/images/capture.PNG)
 
+## Azure Search Analyzer Test Web UI
+
+* [azure-search-ta](https://github.com/yokawasa/azure-search-ta)
 
