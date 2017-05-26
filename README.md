@@ -1,5 +1,5 @@
 # decode2017
-Source codes used in Azure Search session demo (DI08). Session slides will be shared soon.
+Source codes for demo apps/tools used during Azure Search session (DI08) in [de:code 2017](https://www.microsoft.com/ja-jp/events/decode/2017/) event. All breakout session slides including DI08 will be shared soon.
 
 ## Azure Search Analyzer Test Web UI
 基礎編アナライザーデモで使用したAnalyzer APIの結果表示Viewer - [azure-search-ta](https://github.com/yokawasa/azure-search-ta)
