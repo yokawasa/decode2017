@@ -148,8 +148,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
-    <None Include="Properties\PublishProfiles\azuresearch-qna - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\botbuilder-search-realestate - FTP.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
